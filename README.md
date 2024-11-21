@@ -11,17 +11,17 @@ This project is an Android application that implements a Two-Factor Authenticati
   - Firebase Authentication for user authentication.
   - Firebase Realtime Database for storing user data.
 
- ## Installation
-Clone the repository to your local machine:
-Open the project in Android Studio.
+## 🛠 Installation
 
-Connect the app to your Firebase project:
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/afrimymeri/2FA.git
+2. Open the project in Android Studio.
 
-Go to the Firebase Console.
-Create a new project or use an existing one.
-Add your app's package name (com.example.a2fa) to the Firebase project.
-Download the google-services.json file and place it in the app/ directory of the project.
-Sync the project with Gradle files to apply Firebase configuration.
-
+3. Set Up Firebase
+  -  Create a project on Firebase Console.
+  -  Download the google-services.json file.
+  -  Place it in the app/ directory.
+4. Sync the Project
 
 
